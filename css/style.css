@@ -1,0 +1,16 @@
+h1 {
+    font-family: cursive;
+    color: red;
+  }
+body{
+    background-color: rgb(218, 199, 32);
+}
+img{
+    max-width: 100%;
+    width: auto;
+    object-fit: cover;
+}
+
+figure{
+    margin: 0;
+}
